@@ -1,64 +1,69 @@
 
 ![Fondo Tutorial Kids on Bikes](https://github.com/pedrobaringo/kids-on-bikes-csb-es/assets/148097688/cc01b23d-0e75-4d58-96fe-232523b7f4f4)
-# Fichas para Kids on Bikes en Custom System Builder
+# Files for Kids on Bikes at Custom System Builder
 
-## Tabla de Contenido
-- [Introducción](#introducción)
-- [Instalación](#instalación)
-- [Crear un PJ](#crear-un-pj)
-  - [Pestaña de Caracteristicas y Virtudes](#pestaña-de-caracteristicas-y-virtudes)
-  - [Pestaña de Descripción y Notas](#pestaña-de-descripción-y-notas)
-- [Crear un Personaje Potenciado](#crear-un-personaje-potenciado)
-- [Hacer tiradas](#hacer-tiradas)
+## Table of Contents
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Create a Character](#create-a-character)
+  - [Characteristics and Virtues Tab](#characteristics-and-virtues-tab)
+  - [Description and Notes Tab](#description-and-notes-tab)
+- [Create a Powered Character](#create-a-powered-character)
+- [Making Throws](#making-throws)
 
-## Introducción
-Modulo de Foundry VTT con las templates de las fichas para el juego Kids on Bikes en español para el sistema Custom System Builder ( https://foundryvtt.com/packages/custom-system-builder ).
+## Introduction
 
-Para aprender como instalarlo y usarlo podeis ver el tutorial en el siguiente enlace:
+Foundry VTT's Module with the tab templates for the Kids on Bikes game in Spanish for the Custom System Builder system ( https://foundryvtt.com/packages/custom-system-builder ).
 
-[![Video del tutorial](http://img.youtube.com/vi/vsIx_xzhEPo/0.jpg)](http://www.youtube.com/watch?v=vsIx_xzhEPo "Tutorial Foundry-Kids on Bikes")
+To learn how to install and use it, see the following tutorial link:
+
+[![Video tutorial](http://img.youtube.com/vi/vsIx_xzhEPo/0.jpg)](http://www.youtube.com/watch?v=vsIx_xzhEPo "Tutorial Foundry-Kids on Bikes")
 
 
-## Instalación
-Para instalar este módulo en Foundry tienes que usar el siguiente Manifest en el menú de módulos como se muestra en la imagen: [https://github.com/pedrobaringo/kids-on-bikes-es/releases/latest/download/module.json](https://github.com/pedrobaringo/kids-on-bikes-csb-es/releases/latest/download/module.json)
+## Installation
+
+To install this module in Foundry, you must use the following manifest in the module menu as shown in the image:
+
+[https://github.com/pedrobaringo/kids-on-bikes-es/releases/latest/download/module.json](https://github.com/pedrobaringo/kids-on-bikes-csb-es/releases/latest/download/module.json)
 
 ![image](https://github.com/pedrobaringo/kids-on-bikes-csb-es/assets/148097688/fb5d72b0-12d4-405c-9ddd-0321c556f317)
 
-Cuando hayas creado un mundo con el sistema Custom System Builder debes activar este módulo. En la pestaña de compendios tendrás: "Templates_Actores".
-Es importante que al importar mantenga el ID del documento como se ve en la imagen:
+Once you've created a world with the Custom System Builder, you must activate this module. In the compendium tab you will see "Templates-Actors".
+While importing, it's important that you keep the document ID the same as it is in the image below:
 
 ![image](https://github.com/pedrobaringo/kids-on-bikes-csb-es/assets/148097688/d4ea90fb-d04a-4179-ab39-4fe8ed639835)
 
-## Crear un PJ
-Una vez estan importadas las templates ya podemos crear los Actores.
-Hacemos click en Crear Actor, le ponemos un nombre y seleccionamos el tipo "character" y se nos creará una ficha en blanco.
+## Create a Character
+
+Once the templates are imported, we can create the Actors. We click on "Create Actor", give it a name, select the "character type", and it will create a blank tab.
 
 ![image](https://github.com/pedrobaringo/kids-on-bikes-csb-es/assets/148097688/64c2877c-a108-40f8-870d-f27a02cda157)
 
-Aqui tenemos que seleccionar en Template la llamada PJ_Template.
-
-Una vez hemos seleccionado la template y hacemos click en el icono de refrescar en la ficha ya estamos listos para empezar a rellenarla.
+Select the PJ-Template in Template and click on the refresh icon to begin filling it.
 
 ![image](https://github.com/pedrobaringo/kids-on-bikes-csb-es/assets/148097688/68ee6e19-88dc-445d-8ce9-865311a8006e)
 
-En la parte de arriba se pueden poner la edad, seleccionar si es niño, adolescente o adulto (aplica los modificadores pertinentes en las habilidades), los miedos, la motivación y los defectos del personaje.
+Input your age by selecting whether you're a **child**, **teen**, or **adult**. Apply the relevant modifiers in the **skills**, **fears**, **motivation**, and **defects** of the character.
 
-### Pestaña de Caracteristicas y Virtudes
-En esta pestaña tenemoslas 6 caracteristicas, podemos seleccionar el dado correspondiente en el desplegable y hacer las tiradas haciendo click en el nombre de la caracteristica.
+### Characteristics and Virtues Tab
 
-Tambien tenemos el contador de fichas de adversidad que se puede subir o bajar con los botones que aparecen al pasar por encima o escribiendo.
+This tab contains 6 features. We can select the appropriate dice in the corresponding drop-down menu and make the throws by clicking on the name of the feature.
 
-Finalmente tenemos la sección de virtudes donde podemos seleccionar las que tiene nuestro PJ y personalizar las que pueden ser personalizadas. Ademas si mantienes el ratón encima de la virtud aparece un tooltip con el efecto de esa virtud.
+We also have the adversity tile counter that can be increased or decreased with the buttons that appear while hovering with over the element.
+
+Finally, we have the virtues section, where we can select for our character and customize any special options. Additionally, if you keep the mouse on top of the virtue, a tooltip appears with the effect of that virtue.
 
 ![image](https://github.com/pedrobaringo/kids-on-bikes-csb-es/assets/148097688/7caa7f61-9a74-467e-b358-c8bda1a74f5d)
 
-### Pestaña de Descripción y Notas
-En esta pestaña podrás describir tu personaje y tomar notas.
+### Description and Notes Tab
+
+In this tab, you can describe your character and take notes.
 
 ![image](https://github.com/pedrobaringo/kids-on-bikes-csb-es/assets/148097688/57ebada2-8c33-453d-8a32-9813be940934)
 
-## Crear un Personaje Potenciado
-Hacemos click en Crear Actor, le ponemos un nombre y seleccionamos el tipo "character" y se nos creará una ficha en blanco.
+## Create a Powered Character
+
+Click on "Create Actor" and specify a name. Select the "character type" and it will create a blank tab.
 
 ![image](https://github.com/pedrobaringo/kids-on-bikes-csb-es/assets/148097688/64c2877c-a108-40f8-870d-f27a02cda157)
 
@@ -78,7 +83,7 @@ Debajo de las caracteristicas tenemos los Aspectos. Podemos crear filas en esta 
 
 Finalmente tenemos un apartado donde tomar notas abajo del todo.
 
-## Hacer tiradas
+## Making Throws
 Para hacer tiradas solamente se necesita clickar en el nombre de la habilidad que queramos tirar.
 
 En general se tirará el dado correspondiente y si sale el valor más alto en el dado este explotará. Tambien se sumarán los modificadores de edad que aparecen al lado del dado.
